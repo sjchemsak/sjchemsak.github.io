@@ -1,0 +1,201 @@
+<div>
+
+<h1>
+Stephen J. Chemsak - Web-Based Interactive Data Graphics (in Plotly Javascript)
+
+</h1>
+
+
+<p> <font size="5">Hover over upper right of each graphic to view control panel</font>  </p>
+
+</div>
+
+
+
+
+<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- SJC - the trick to adding two plots was adding the div tags and making sure the names of the plots - myDiv and myDiv2 were different -->
+
+
+
+
+
+<div/>
+<br>
+<br>
+<p>
+<center><a href="https://www.w3schools.com"><font size="4.5">3D Horshoe Animation - Click here then drag around the 3d horseshoe image ! </font></a> </center>
+</p>
+<br>
+<br>
+<br>
+<div>
+
+<head>
+<!-- Plotly.js -->
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        </head>
+        <body>
+        <!-- Plotly chart will be drawn inside this DIV -->
+        <div id="myDiv2"></div>
+        <script>
+        var x = ['First Test', 'First Test', 'First Test', 'First Test', 'First Test', 'First Test',
+         'Second Test', 'Second Test', 'Second Test', 'Second Test', 'Second Test', 'Second Test']
+
+var trace1 = {
+  y: [200, 300, 300, 700, 500, 600, 400, 200, 400, 700, 500, 600],
+  x: x,
+  name: 'Seniors',
+  marker: {color: '#3D9970'},
+  type: 'box'
+};
+
+var trace2 = {
+  y: [200, 300, 400, 500, 250, 600, 400, 300, 350, 600, 500, 300],
+  x: x,
+  name: 'Juniors',
+  marker: {color: '#FF4136'},
+  type: 'box'
+};
+
+var trace3 = {
+  y: [200, 300, 200, 400, 280, 300, 300, 300, 350, 500, 500, 500],
+  x: x,
+  name: 'Sophomores',
+  marker: {color: '#FF851B'},
+  type: 'box'
+};
+
+var data = [trace1, trace2, trace3];
+
+var layout = {
+  yaxis: {
+    title: 'SAT Score',
+    zeroline: false
+  },
+  boxmode: 'group'
+};
+
+Plotly.newPlot('myDiv2', data, layout);
+        </script>
+        </body>
+
+</div>
+
+<div>
+
+</div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div>
+
+
+
+<head>
+  <!-- Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+  
+  <div id="myDiv5"><!-- Plotly chart will be drawn inside this DIV --></div>
+  <script>
+    data = [
+  {
+    type: 'bar',
+    x: ['2015','2016','2017'],
+    y: [1200,1400,1600],
+    base: [-1200,-1400,-1600],
+    marker: {
+      color: 'pink'
+    },
+    name: 'expenses'
+  },
+  {
+    type: 'bar',
+    x: ['2015','2016','2017'],
+    y: [800,1000,2000],
+    base: 0,
+    marker: {
+      color: 'purple'
+    },
+    name: 'revenue'
+  }]
+
+Plotly.plot("myDiv5", data)
+  </script>
+</body>
+
+
+</div>
+
+
+
+
+
+
+
+<div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<head>
+  <!-- Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- Numeric JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/numeric/1.2.6/numeric.min.js"></script>
+</head>
+
+<body>
+  
+  <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+  <script>
+    var data = [{
+  values: [20, 35, 40],
+  labels: ['Strongly Agree', 'Agree', 'Disagree'],
+  type: 'pie'
+}];
+
+Plotly.newPlot('myDiv', data);
+  </script>
+</body>
+
+
+
+</div>
