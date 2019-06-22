@@ -1,13 +1,23 @@
+Overfitting 
+Underfitting
+Hyperparameters
+Parameters
+
 Regression
 Logistic Regression
 Multinomial Logistic Regression 
 Decision Trees
+   - Regression Decision Tree
+   - Classification Decision Tree
+Random Forest
 K-Means Clustering
 Hierarchical Clustering
 Support Vector Machines
 Principal Components Analysis
 Time Series Analysis
 A Priori
+XGBoost
+Linear Programming
 
 General Linear Model
 Generalized Linear Model
@@ -20,8 +30,21 @@ Perceptron
 Convolutional Neural Network
 Recurrent Neural Network
 Boltzmann Machine
+Generative Adversarial Networks (GAN)
 
 Long Short Term Memory
 
 Reinforcement Learning
 Deep Reinforcement Learning
+Deep Reinforcement Learning 
+
+
+
+Regression
+  -R-squared
+  -Mean Squared Error
+  -Root Mean Squared Error
+Logistic Regression
+  -Sigmoid Function
+  -Confustion Metric.  Precision.  Recall.
+  
