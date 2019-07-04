@@ -1,5 +1,3 @@
-Data Cleaning
-
 Overfitting 
 Underfitting
 
@@ -17,9 +15,9 @@ P-Value
 T-Test
 
 Regression
+Polynomial Regresssion
 Lasso Regression
 Ridge Regression
-
 
 Logistic Regression
 Multinomial Logistic Regression 
