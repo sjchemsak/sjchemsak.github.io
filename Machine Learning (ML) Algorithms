@@ -1,7 +1,14 @@
+Data Cleaning
+
 Overfitting 
 Underfitting
-Hyperparameters
+
 Parameters
+Hyperparameters
+
+General Linear Model
+Generalized Linear Model
+
 Training Set
 Test Set
 Validation Set
@@ -10,23 +17,31 @@ P-Value
 T-Test
 
 Regression
+Lasso Regression
+Ridge Regression
+
+
 Logistic Regression
 Multinomial Logistic Regression 
+
 Decision Trees
    - Regression Decision Tree
    - Classification Decision Tree
 Random Forest
+
 K-Means Clustering
 Hierarchical Clustering
+
 Support Vector Machines
 Principal Components Analysis
 Time Series Analysis
+
 A Priori
 XGBoost
+
 Linear Programming
 
-General Linear Model
-Generalized Linear Model
+
 
 A/B Testing
 
