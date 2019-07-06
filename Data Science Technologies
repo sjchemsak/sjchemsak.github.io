@@ -1,5 +1,3 @@
-Difference between an object and a class?
-
 # Top 6
 
 Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
@@ -10,12 +8,13 @@ Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
   -shebang specifies interpreter or hash bang http://stanford.edu/~jainr/basics.py
     https://en.wikipedia.org/wiki/Shebang_(Unix).  Shebang line always begins #!
   -Function:
+    -Lambda (anonymous) function
 SQL
   -SELECT, SUM, WHERE, GROUPBY
 R
 SAS
   Data
-  PROC, PROC
+  PROC FREQ, REG
 Linux
   -man
   -chmod
