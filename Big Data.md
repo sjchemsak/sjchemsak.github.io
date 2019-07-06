@@ -1,4 +1,4 @@
-# This file contains notes on Big Data technologies #
+# This file contains notes on Big Data technologies
 
 Hadoop
   HDFS
