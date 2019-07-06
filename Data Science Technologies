@@ -31,6 +31,7 @@ Deploying a Model
     Flask (Web API)
     Pickle (Saving as a Binary File)
     Docker (Container)
+    Flasger/Swagger
 Data Pipeline
     Lambda Architecture
     Throughput
