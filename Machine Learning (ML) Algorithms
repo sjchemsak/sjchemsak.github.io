@@ -18,8 +18,13 @@ XGBoost
 Reinforcement Learning
 
 Neural Networks
+  -Backpropogation
+   -Gradient Descent
+   -Activation Function
 Convolutional Neural Networks
-
+   -Convolution
+   -Convolv
+ 
 Natural Language Processing
   -Tokenization
   -Lemmatization
@@ -33,7 +38,9 @@ Underfitting
 Parameters
 Hyperparameters
 Transfer Learning
+Feature Selection
 Feature Engineering
+Model Assessment
 Training Set
 Test Set
 K-Fold Cross Validation
