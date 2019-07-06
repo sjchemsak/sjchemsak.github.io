@@ -1,4 +1,6 @@
 Deploying a Machine Learning Model
+  - How does a recommendation system work?
+  - A/B Testing
 
 Time Series:  How do you split?
 Support Vector Machines
@@ -10,31 +12,33 @@ Principal Components Analysis
 Decision Trees 
 Random Forest
 K-Means Clustering
-Neural Networks
-Convolutional Neural Networks
-Generalized Linear Model
+Generalized Linear Model (Difference with General Linear Model)
 XGBoost
 Reinforcement Learning
 
+Neural Networks
+Convolutional Neural Networks
 
+Natural Language Processing
+  -Tokenization
+  -Lemmatization
+  -Stemming
 
-
-
-Overfitting 
-Underfitting
-
-Parameters
-Hyperparameters
-
-General Linear Model
-Generalized Linear Model
-
-Training Set
-Test Set
-Validation Set
-Bayes Theorem
 P-Value
 T-Test
+
+Transfer Learning
+Feature Engineering
+Overfitting 
+Underfitting
+Parameters
+Hyperparameters
+Training Set
+Test Set
+K-Fold Cross Validation
+Validation Set
+Bayes Theorem
+
 
 
 Polynomial Regresssion
@@ -46,24 +50,16 @@ Decision Trees
    - Classification Decision Tree
 Random Forest
 
-K-Means Clustering
 Hierarchical Clustering
 A Priori
-XGBoost
-
 Linear Programming
 A/B Testing
 Genetic Algorithm
-
 Generative Adversarial Networks (GAN)
 Autoencoders
-
-Long Short Term Memory
+Long Short Term Memory (LSTMs)
 
 Deep Reinforcement Learning
-Deep Reinforcement Learning 
-
-
 
 Regression
   
