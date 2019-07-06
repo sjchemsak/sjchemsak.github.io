@@ -1,6 +1,8 @@
 Deploying a Machine Learning Model
   - How does a recommendation system work?
   - A/B Testing
+  - Infrastructure as a Service
+  - Platform as a Service
 
 Time Series:  How do you split?
 Support Vector Machines
@@ -18,12 +20,13 @@ XGBoost
 Reinforcement Learning
 
 Neural Networks
-  -Backpropogation
+   -Backpropogation
    -Gradient Descent
    -Activation Function
 Convolutional Neural Networks
    -Convolution
    -Convolv
+Recurrent Neural Networks
  
 Natural Language Processing
   -Tokenization
