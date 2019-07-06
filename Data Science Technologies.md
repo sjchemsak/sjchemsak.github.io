@@ -1,3 +1,4 @@
+Top 5
 Python
 SQL
 R
@@ -5,18 +6,28 @@ SAS
 Linux
 
 
-
-Python
-SQL
-R
-SAS
-JAVA
+Top 10
+Java
 Spark
 Docker
+C++
+Matlab
 
-
+Top 15
 Hadoop
 Kubernetes
-C
-C++
+Tableau
+
+
+Top Python Libraries
+
+numpy
+pandas
+scikit learn
+tensorflow
+pytorch
+matplotilib
+seaborne
+scipy
+sqlalchemy
 
