@@ -5,12 +5,13 @@ Difference between an object and a class?
 Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
   -Class:  blueprint for object.  Simple example https://www.w3schools.com/python/python_classes.asp
   -Object:  
-  -Method:
+  -Method:  Good explanation of method: https://www.tutorialspoint.com/difference-between-method-and-function-in-python
   -Lists, Tuples, Dictionaries
   -shebang specifies interpreter or hash bang http://stanford.edu/~jainr/basics.py
+    https://en.wikipedia.org/wiki/Shebang_(Unix)
   -Function:
 SQL
-  -Select, Sum
+  -SELECT, SUM, WHERE, GROUPBY
 SAS
   Data
   PROC, PROC
