@@ -8,7 +8,7 @@ Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
   -Method:  Good explanation of method: https://www.tutorialspoint.com/difference-between-method-and-function-in-python
   -Lists, Tuples, Dictionaries
   -shebang specifies interpreter or hash bang http://stanford.edu/~jainr/basics.py
-    https://en.wikipedia.org/wiki/Shebang_(Unix)
+    https://en.wikipedia.org/wiki/Shebang_(Unix).  Shebang line always begins #!
   -Function:
 SQL
   -SELECT, SUM, WHERE, GROUPBY
