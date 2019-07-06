@@ -14,6 +14,14 @@ SAS
   Data
   PROC, PROC
 Linux
+  -man
+  -mv
+  -rm
+  -tar
+  -grep
+  -find
+  -ssh
+  -vim (is it like "vi"?)
 Deploying a Model
     Flask (Web API)
     Pickle (Saving as a Binary File)
@@ -28,13 +36,23 @@ Note: Spark can be at two different layers: https://towardsdatascience.com/lambd
 # Top 9
 
 AWS
-Google Cloud
+Google Cloud (GCP)
 Azure
 NOSQL
+Matlab
+Java
 
 Goes without Saying
 
 Git
+  -git config
+  -git init
+  -git add
+  -git commit
+  -git status
+  -git push/pull
+  -git branch
+  -git clone
 GitHub
 GitLab
 Putty
@@ -75,7 +93,9 @@ Tableau
 Python Libraries
 
 numpy
+ -arrays, matrices
 pandas
+  -dataframes
 scikit learn (sklearn)
 tensorflow
 pytorch
