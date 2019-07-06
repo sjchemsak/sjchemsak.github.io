@@ -22,6 +22,7 @@ SAS
 Linux -man -chmod -mv -rm -tar -grep -find -ssh -vim (is it like "vi"?)
 
 Deploy Model
+    https://towardsdatascience.com/a-simple-way-to-deploy-any-machine-learning-model-106d463e9a4b
     Flask (Web API)
     Pickle (Saving as a Binary File)
     Docker (Container)
