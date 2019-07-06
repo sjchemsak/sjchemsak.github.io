@@ -26,8 +26,10 @@ pandas
 scikit learn
 tensorflow
 pytorch
-matplotilib
+matplotlib
 seaborne
 scipy
 sqlalchemy
-
+nltk
+flask
+xgboost?
