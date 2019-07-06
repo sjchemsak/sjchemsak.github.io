@@ -1,5 +1,3 @@
-Apache Web server https://www.wpbeginner.com/glossary/apache/
-
 # Top 6
 
 Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
@@ -11,12 +9,16 @@ Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
     https://en.wikipedia.org/wiki/Shebang_(Unix).  Shebang line always begins #!
   -Function:
     -Lambda (anonymous) function
+
 SQL
   -SELECT, SUM, WHERE, GROUPBY
+
 R
+
 SAS
   Data
-  PROC FREQ, REG
+  PROC FREQ, CORR, REG
+
 Linux
   -man
   -chmod
@@ -27,7 +29,8 @@ Linux
   -find
   -ssh
   -vim (is it like "vi"?)
-Deploying a Model
+
+Deploy Model
     Flask (Web API)
     Pickle (Saving as a Binary File)
     Docker (Container)
