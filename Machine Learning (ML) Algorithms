@@ -4,6 +4,7 @@ Deploying a Machine Learning Model
 
 Time Series:  How do you split?
 Support Vector Machines
+  - Hyperplane
 Regression
 Ridge Regression
 Logistic Regression
@@ -27,19 +28,21 @@ Natural Language Processing
 P-Value
 T-Test
 
-Transfer Learning
-Feature Engineering
 Overfitting 
 Underfitting
 Parameters
 Hyperparameters
+Transfer Learning
+Feature Engineering
 Training Set
 Test Set
 K-Fold Cross Validation
 Validation Set
 Bayes Theorem
 
-
+Data Cleaning
+  -Remove Values
+  -Impute Values
 
 Polynomial Regresssion
 Lasso Regression
