@@ -28,7 +28,7 @@ Neural Networks
    -Activation Function
 Convolutional Neural Networks
    -Convolution
-   -Convolv
+   -Convolve
 Recurrent Neural Networks
  
 Natural Language Processing
@@ -65,6 +65,8 @@ Decision Trees
    - Regression Decision Tree
    - Classification Decision Tree
 Random Forest
+Ensembles
+
 
 Hierarchical Clustering
 A Priori
@@ -84,6 +86,9 @@ Logistic Regression
   -Confustion Metric.  Precision.  Recall.
   
 Regression
+ - Correlation
+ - Corelation Matrix
+ - Collinearity
  - Multicollineary
  - Heteroscadacticity
  - RMSE
