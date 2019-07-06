@@ -3,8 +3,8 @@ Difference between an object and a class?
 # Top 6
 
 Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
-  -Class:  blueprint for object.  Simple example https://www.w3schools.com/python/python_classes.asp
-  -Object:  
+  -Class:  Blueprint for object.  Simple example https://www.w3schools.com/python/python_classes.asp
+  -Object:  The "thing"
   -Method:  Good explanation of method: https://www.tutorialspoint.com/difference-between-method-and-function-in-python
   -Lists, Tuples, Dictionaries (like key value pairs)
   -shebang specifies interpreter or hash bang http://stanford.edu/~jainr/basics.py
