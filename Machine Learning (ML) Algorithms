@@ -39,18 +39,18 @@ Natural Language Processing
 P-Value
 T-Test
 
-Overfitting 
-Underfitting
 Parameters
 Hyperparameters
-Transfer Learning
 Feature Selection
 Feature Engineering
-Model Assessment
+Overfitting 
+Underfitting
 Training Set
 Test Set
 K-Fold Cross Validation
 Validation Set
+Model Assessment
+Transfer Learning
 Bayes Theorem
 
 Data Cleaning
