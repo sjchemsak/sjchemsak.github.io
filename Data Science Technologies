@@ -2,33 +2,24 @@
 
 Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
   -Class:  Blueprint for object.  Simple example https://www.w3schools.com/python/python_classes.asp
-  -Object:  The "thing"
+  -Object:  The "thing".
   -Method:  Good explanation of method: https://www.tutorialspoint.com/difference-between-method-and-function-in-python
+   -Function:
+    -Lambda (anonymous) function
   -Lists, Tuples, Dictionaries (like key value pairs)
   -shebang specifies interpreter or hash bang http://stanford.edu/~jainr/basics.py
     https://en.wikipedia.org/wiki/Shebang_(Unix).  Shebang line always begins #!
-  -Function:
-    -Lambda (anonymous) function
-
+ 
 SQL
-  -SELECT, SUM, WHERE, GROUPBY
+  -SELECT, SUM, WHERE, GROUPBY, ORDER (BY?)
 
-R
+R (1993).  R Seems to Be Classifed Within Object Oriented
 
 SAS
   Data
   PROC FREQ, CORR, REG
 
-Linux
-  -man
-  -chmod
-  -mv
-  -rm
-  -tar
-  -grep
-  -find
-  -ssh
-  -vim (is it like "vi"?)
+Linux -man -chmod -mv -rm -tar -grep -find -ssh -vim (is it like "vi"?)
 
 Deploy Model
     Flask (Web API)
