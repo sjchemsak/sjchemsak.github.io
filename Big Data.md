@@ -6,7 +6,7 @@ Hadoop
   Avro
   Parquet
   Ambari
-Flink
+Flink:  A streaming platform
 Spark
   -RDD (Resilient Distributed DataSet)
 Sqoop
