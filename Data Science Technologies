@@ -1,16 +1,36 @@
 Difference between an object and a class?
 
-# Top 4
-Python
+# Top 6
+
+Python (1990/91). Python 3 (2008).  Seems like can be object-oriented.
+  -Class:  blueprint for object.  Simple example https://www.w3schools.com/python/python_classes.asp
+  -Object:  
+  -Method:
+  -Lists, Tuples, Dictionaries
+  -Function:
 SQL
-R
+  -Select, Sum
 SAS
+  Data
+  PROC, PROC
+Linux
+Deploying a Model
+    Flask (Web API)
+    Pickle (Saving as a Binary File)
+    Docker (Container)
+Data Pipeline
+    Lambda Architecture
+    Throughput
+    Latency
+Note: Spark can be at two different layers: https://towardsdatascience.com/lambda-architecture-how-to-build-a-big-data-pipeline-part-1-8b56075e83fe
+
 
 # Top 9
-Linux
+
 AWS
 Google Cloud
 Azure
+NOSQL
 
 Goes without Saying
 
@@ -18,18 +38,31 @@ Git
 GitHub
 GitLab
 Putty
+Jupyter Notebooks (also, Spyder, pycharm)
 Kerberos
 JSON
 CSV
 SSH
 HTTP
+ports
+hosts
 Windows Command Line
+
+Parallel Computing
+Distributed Computing
 
 
 Top 11
 Java
 Spark
 Docker
+  Docker File
+  Image
+  Commands (Command Line):
+     docker PS
+     docker build   
+     docker run
+  
 C++
 Matlab
 
@@ -43,7 +76,7 @@ Python Libraries
 
 numpy
 pandas
-scikit learn
+scikit learn (sklearn)
 tensorflow
 pytorch
 matplotlib
@@ -51,8 +84,9 @@ seaborne
 scipy
 sqlalchemy
 nltk
-flask
+flask (Web microframework)
 xgboost?
+pickle (for binary)
 
 R Libraries
 ggplot2
