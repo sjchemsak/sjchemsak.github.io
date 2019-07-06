@@ -1,3 +1,2 @@
 # Hello #
-![GitHub Logo](https://commons.wikimedia.org/wiki/File:Test.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
