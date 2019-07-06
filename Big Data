@@ -3,6 +3,7 @@
 Hadoop
   HDFS
   Yarn (Queues)
+  Hive
   Map Reduce
   Avro
   Parquet
