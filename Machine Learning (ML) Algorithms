@@ -1,3 +1,14 @@
+Regression
+Logistic Regression
+Principal Components Analysis
+Support Vector Machines
+Neural Networks
+Generalized Linear Model
+
+
+
+
+
 Overfitting 
 Underfitting
 
@@ -61,10 +72,16 @@ Deep Reinforcement Learning
 
 
 Regression
-  -R-squared
-  -Mean Squared Error
-  -Root Mean Squared Error
+  
 Logistic Regression
   -Sigmoid Function
   -Confustion Metric.  Precision.  Recall.
   
+Regression
+ - Multicollineary
+ - Heteroscadacticity
+ - RMSE
+ - Feature Selection
+ -R-squared
+ -Mean Squared Error
+ -Root Mean Squared Error
