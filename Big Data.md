@@ -6,7 +6,6 @@ Hadoop
   Avro
   Parquet
   Ambari
-
 Flink
 Spark
   -RDD (Resilient Distributed DataSet)
