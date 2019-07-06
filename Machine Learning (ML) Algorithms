@@ -1,16 +1,18 @@
-Time Series
+Time Series:  How do you split?
 Support Vector Machines
 Regression
 Ridge Regression
 Logistic Regression
+Multinomial Logistic Regression
 Principal Components Analysis
 Decision Trees 
 Random Forest
-K-Means
+K-Means Clustering
 Neural Networks
 Convolutional Neural Networks
 Generalized Linear Model
 XGBoost
+Reinforcement Learning
 
 
 
@@ -32,13 +34,10 @@ Bayes Theorem
 P-Value
 T-Test
 
-Regression
+
 Polynomial Regresssion
 Lasso Regression
-Ridge Regression
-
-Logistic Regression
-Multinomial Logistic Regression 
+Bolztmann Machines
 
 Decision Trees
    - Regression Decision Tree
@@ -47,32 +46,18 @@ Random Forest
 
 K-Means Clustering
 Hierarchical Clustering
-
-Support Vector Machines
-Principal Components Analysis
-Time Series Analysis
-
 A Priori
 XGBoost
 
 Linear Programming
-
-
-
 A/B Testing
-
 Genetic Algorithm
 
-Perceptron
-Convolutional Neural Network
-Recurrent Neural Network
-Boltzmann Machine
 Generative Adversarial Networks (GAN)
 Autoencoders
 
 Long Short Term Memory
 
-Reinforcement Learning
 Deep Reinforcement Learning
 Deep Reinforcement Learning 
 
