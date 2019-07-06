@@ -1,21 +1,32 @@
 Difference between an object and a class?
 
-# Top 5
-
+# Top 4
 Python
 SQL
 R
 SAS
+
+# Top 9
 Linux
+AWS
+Google Cloud
+Azure
 
 Goes without Saying
 
+Git
 GitHub
+GitLab
 Putty
+Kerberos
+JSON
+CSV
 SSH
 HTTP
+Windows Command Line
 
-Top 10
+
+Top 11
 Java
 Spark
 Docker
@@ -43,7 +54,7 @@ nltk
 flask
 xgboost?
 
-Top R Libraries
+R Libraries
 ggplot2
 dyplr
 shiny
@@ -56,3 +67,8 @@ SQL
     -Inner Join
     -Outer Join
 SAS
+
+Databases
+  SQLSERVER
+  MYSQL
+  MongoDB
