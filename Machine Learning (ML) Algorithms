@@ -1,9 +1,16 @@
+Time Series
+Support Vector Machines
 Regression
+Ridge Regression
 Logistic Regression
 Principal Components Analysis
-Support Vector Machines
+Decision Trees 
+Random Forest
+K-Means
 Neural Networks
+Convolutional Neural Networks
 Generalized Linear Model
+XGBoost
 
 
 
