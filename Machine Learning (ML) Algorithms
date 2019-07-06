@@ -3,7 +3,7 @@ Deploying a Machine Learning Model
   - A/B Testing
   - Infrastructure as a Service
   - Platform as a Service
-  - Flask-Pickle-Flask-WSGI
+  - Flask-Pickle-Docker-WSGI-Apache Web Server
 
 Time Series:  How do you split?
 
