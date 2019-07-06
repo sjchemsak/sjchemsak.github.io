@@ -2,24 +2,22 @@
 
 Hadoop
   HDFS
+  Yarn (Queues)
   Map Reduce
   Avro
   Parquet
   Ambari
-Flink:  A streaming platform
+
 Spark
   -RDD (Resilient Distributed DataSet)
-Sqoop
-
-ETL
 
 Kafka
-
+Flink:  A streaming platform
+Sqoop
+ETL
 Data Pipeline
-
 Kerberos 
-
 Data Masking
-
 SQL Server
 NOSQL
+PostGRESQL
