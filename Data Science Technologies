@@ -56,9 +56,11 @@ xgboost?
 
 R Libraries
 ggplot2
+tidyr
 dyplr
 shiny
 knitr
+
 
 SQL
 
