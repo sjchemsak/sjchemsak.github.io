@@ -2,4 +2,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjchemsak/sjchemsak.github.io/master)
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/sjchemsak/sjchemsak.github.io/master
- Clicking on this link will allow you to open up Jupyter Notebooks
+ Clicking on the above link will allow you to open up Jupyter Notebooks
